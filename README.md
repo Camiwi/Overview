@@ -2,7 +2,7 @@
 <h3 align="center">BI & Big Data Engineer | Data Science</h3>
 
 - 🔭 I’m currently studying at **Universidad Europea** a degree in Computer Science and engineering
-- 🌱 I’m currently learning **MLOps, AWS Certified Solutions Architect**
+
 
 - 👨‍💻 Some of my fun projects are available at [insertlinkhere]
 
