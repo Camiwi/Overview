@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Camilo Betancur</h1>
 <h3 align="center">BI & Big Data Engineer | Data Science</h3>
 
-- 🔭 I’m currently working at **Universidad Europea** as Assistant Professor
-- 🔭 I’m currently teaching **Big Data Projects, Concurrent and Distributed Programming, Statistical Programming Languages**
+- 🔭 I’m currently studying at **Universidad Europea** a degree in Computer Science and engineering
 - 🌱 I’m currently learning **MLOps, AWS Certified Solutions Architect**
 
-- 👨‍💻 Some of my fun projects are available at [https://Camiwi.me/]
+- 👨‍💻 Some of my fun projects are available at [insertlinkhere]
 
 - 💬 Ask me about **Python, AWS, GCP, GitHub, Git, Docker, Spark, Hadoop, SQL, Data Engineering, BigQuery, Ionic, **
 
@@ -13,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sucuzhanay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Camiwi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/camilo-betancur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Camiwi" height="30" width="40" /></a>
 <a href="https://medium.com/@Camiwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sukuzhanay.data" height="30" width="40" /></a>
 </p>
 
